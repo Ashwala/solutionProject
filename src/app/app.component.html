@@ -1,0 +1,83 @@
+app.html
+<div class="row">
+  <div class="col-12 center initial-btn">
+    Click button to view the images
+    <button class="btn btn-primary" (click)="getData()">Click here</button>
+  </div>
+</div>
+<div class="image-container">
+  <div class="row">
+    <div class="col-12 center" *ngIf="buttonList">
+      <button *ngFor="let button of buttonList" class="btn btn-primary" (click)="nextOrPrev(button)">{{button}}</button>
+    </div>
+  </div>
+  <div class="error-mesg" *ngIf="errorData">{{errorData}}</div>
+  <div class="image-content">
+    <drag-scroll *ngIf="getList" [drag-scroll-y-disabled]="false">
+      <div class="row">
+        <div>
+          <img drag-scroll-item *ngFor="let data of getList" [src]="data.picture.large" (click)="viewDetails(data);">
+        </div>
+      </div>
+    </drag-scroll>
+  </div>
+</div>
+
+<div class="modal-outer" *ngIf="showPopup">
+  <div class="modal-inner">
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">Image Details</h4>
+      <button type="button" class="close" aria-label="Close" (click)="showPopup = false">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="row">
+        <div class="col-6">
+          <ul>
+            <li>
+              <div class="details-header">First Name</div>
+              <div class="details-content">{{viewData.name.first}}</div>
+            </li>
+            <li>
+              <div class="details-header">Last Name</div>
+              <div class="details-content">{{viewData.name.last}}</div>
+            </li>
+            <li>
+              <div class="details-header">Street</div>
+              <div class="details-content">{{viewData.location.street}}</div>
+            </li>
+            <li>
+              <div class="details-header">City</div>
+              <div class="details-content">{{viewData.location.city}}</div>
+            </li>
+            <li>
+              <div class="details-header">State</div>
+              <div class="details-content">{{viewData.location.state}}</div>
+            </li>
+            <li>
+              <div class="details-header">Email</div>
+              <div class="details-content">{{viewData.email}}</div>
+            </li>
+            <li>
+              <div class="details-header">Age</div>
+              <div class="details-content">{{viewData.dob.age}}</div>
+            </li>
+            <li>
+              <div class="details-header">Phone</div>
+              <div class="details-content">{{viewData.phone}}</div>
+            </li>
+            <li>
+              <div class="details-header">Cell</div>
+              <div class="details-content">{{viewData.cell}}</div>
+            </li>
+          </ul>
+        </div>
+        <div class="col-6 image-view">
+          <img [src]="viewData.picture.large">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

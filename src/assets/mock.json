@@ -1,0 +1,218 @@
+    {
+        "results": [
+            {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "ege",
+                    "last": "ertürk"
+                },
+                "location": {
+                    "street": "5290 şehitler cd",
+                    "city": "eskişehir",
+                    "state": "muş",
+                    "postcode": 95531,
+                    "coordinates": {
+                        "latitude": "79.2426",
+                        "longitude": "14.4586"
+                    },
+                    "timezone": {
+                        "offset": "-3:30",
+                        "description": "Newfoundland"
+                    }
+                },
+                "email": "ege.ertürk@example.com",
+                "login": {
+                    "uuid": "46b58559-f8bb-4351-921d-99a789286035",
+                    "username": "smallmouse627",
+                    "password": "angelus",
+                    "salt": "HRRlteMl",
+                    "md5": "70866411f6121631e32ccdbaf738f533",
+                    "sha1": "9d3dc24238c1d78f1e744f2dd045afb3114767f3",
+                    "sha256": "8db5d378b3dd4e812f83556047d3d8e58e3187c544b7e0041917be58f6978123"
+                },
+                "dob": {
+                    "date": "1980-03-10T14:35:55Z",
+                    "age": 39
+                },
+                "registered": {
+                    "date": "2009-05-06T18:11:26Z",
+                    "age": 10
+                },
+                "phone": "(515)-302-3581",
+                "cell": "(353)-143-2818",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+                },
+                "nat": "TR"
+            },
+            {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "ege",
+                    "last": "ertürk"
+                },
+                "location": {
+                    "street": "5290 şehitler cd",
+                    "city": "eskişehir",
+                    "state": "muş",
+                    "postcode": 95531,
+                    "coordinates": {
+                        "latitude": "79.2426",
+                        "longitude": "14.4586"
+                    },
+                    "timezone": {
+                        "offset": "-3:30",
+                        "description": "Newfoundland"
+                    }
+                },
+                "email": "ege.ertürk@example.com",
+                "login": {
+                    "uuid": "46b58559-f8bb-4351-921d-99a789286035",
+                    "username": "smallmouse627",
+                    "password": "angelus",
+                    "salt": "HRRlteMl",
+                    "md5": "70866411f6121631e32ccdbaf738f533",
+                    "sha1": "9d3dc24238c1d78f1e744f2dd045afb3114767f3",
+                    "sha256": "8db5d378b3dd4e812f83556047d3d8e58e3187c544b7e0041917be58f6978123"
+                },
+                "dob": {
+                    "date": "1980-03-10T14:35:55Z",
+                    "age": 39
+                },
+                "registered": {
+                    "date": "2009-05-06T18:11:26Z",
+                    "age": 10
+                },
+                "phone": "(515)-302-3581",
+                "cell": "(353)-143-2818",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+                },
+                "nat": "TR"
+            },
+            {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "ege",
+                    "last": "ertürk"
+                },
+                "location": {
+                    "street": "5290 şehitler cd",
+                    "city": "eskişehir",
+                    "state": "muş",
+                    "postcode": 95531,
+                    "coordinates": {
+                        "latitude": "79.2426",
+                        "longitude": "14.4586"
+                    },
+                    "timezone": {
+                        "offset": "-3:30",
+                        "description": "Newfoundland"
+                    }
+                },
+                "email": "ege.ertürk@example.com",
+                "login": {
+                    "uuid": "46b58559-f8bb-4351-921d-99a789286035",
+                    "username": "smallmouse627",
+                    "password": "angelus",
+                    "salt": "HRRlteMl",
+                    "md5": "70866411f6121631e32ccdbaf738f533",
+                    "sha1": "9d3dc24238c1d78f1e744f2dd045afb3114767f3",
+                    "sha256": "8db5d378b3dd4e812f83556047d3d8e58e3187c544b7e0041917be58f6978123"
+                },
+                "dob": {
+                    "date": "1980-03-10T14:35:55Z",
+                    "age": 39
+                },
+                "registered": {
+                    "date": "2009-05-06T18:11:26Z",
+                    "age": 10
+                },
+                "phone": "(515)-302-3581",
+                "cell": "(353)-143-2818",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+                },
+                "nat": "TR"
+            },
+            {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "ege",
+                    "last": "ertürk"
+                },
+                "location": {
+                    "street": "5290 şehitler cd",
+                    "city": "eskişehir",
+                    "state": "muş",
+                    "postcode": 95531,
+                    "coordinates": {
+                        "latitude": "79.2426",
+                        "longitude": "14.4586"
+                    },
+                    "timezone": {
+                        "offset": "-3:30",
+                        "description": "Newfoundland"
+                    }
+                },
+                "email": "ege.ertürk@example.com",
+                "login": {
+                    "uuid": "46b58559-f8bb-4351-921d-99a789286035",
+                    "username": "smallmouse627",
+                    "password": "angelus",
+                    "salt": "HRRlteMl",
+                    "md5": "70866411f6121631e32ccdbaf738f533",
+                    "sha1": "9d3dc24238c1d78f1e744f2dd045afb3114767f3",
+                    "sha256": "8db5d378b3dd4e812f83556047d3d8e58e3187c544b7e0041917be58f6978123"
+                },
+                "dob": {
+                    "date": "1980-03-10T14:35:55Z",
+                    "age": 39
+                },
+                "registered": {
+                    "date": "2009-05-06T18:11:26Z",
+                    "age": 10
+                },
+                "phone": "(515)-302-3581",
+                "cell": "(353)-143-2818",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+                },
+                "nat": "TR"
+            }
+        ],
+        "info": {
+            "seed": "33d854612cf123cf",
+            "results": 1,
+            "page": 1,
+            "version": "1.2"
+        }
+    }
